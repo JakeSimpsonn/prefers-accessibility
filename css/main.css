@@ -65,7 +65,7 @@ html {
 
 @media (prefers-reduced-motion) {
 
-  .img{
+  .img {
     animation: none;
   }
 
