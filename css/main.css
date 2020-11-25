@@ -65,7 +65,7 @@ html {
 
 @media (perfers-reduced-motion) {
 
-  .gear{
+  .img{
     animation: none;
   }
 
